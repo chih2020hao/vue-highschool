@@ -1,10 +1,10 @@
 <template lang="pug">
-  #top
-    img(:src="'./images/logo.png'")
+  #uopdate
+    p 最近更新日期 2020/11/09
 </template>
 
 <script>
 export default {
-  name: 'Top'
+  name: 'update'
 }
 </script>
